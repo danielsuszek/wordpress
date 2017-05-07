@@ -1,2 +1,2 @@
-alert('majak.js');
-console.log('majak.js');
+//alert('majak.js');  
+//console.log('majak.js');
